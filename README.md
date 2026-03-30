@@ -25,7 +25,7 @@ A usuária registra refeições em linguagem natural, recebe insights nutriciona
 
 ---
 
-## Exemeplo do fluxo de uma conversa
+## Exemplo do fluxo de uma conversa
 
 
 ![fluxo](docs/fluxo.png)
